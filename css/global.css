@@ -1,0 +1,41 @@
+.btn-2-v {
+border-color: #8D41B1 !important;
+border-radius: 30px !important;
+}
+
+.bg-grad{
+background: 
+radial-gradient(32.57% 51.46% at 69.97% 38.9%, #F7F7F7 0%, #E1D9ED 100%)
+}
+
+
+.pill{
+  position: absolute;
+
+
+}
+
+.pilula-1 {
+position: absolute;
+    left: 90px;
+    bottom: 250px;
+    width: 60px;
+}
+
+.pilula-2 {
+  max-width: 170px;
+  bottom: -40px;
+  right: 500px;
+}
+
+
+
+@media (max-width: 1090px) {
+  .pilula-2 {
+    width: 20px;
+    bottom: -40px;
+    right: 500px;
+  }
+
+}
+
